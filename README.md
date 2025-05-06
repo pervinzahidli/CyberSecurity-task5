@@ -35,12 +35,12 @@ Using `msfconsole`, I searched for a suitable exploit related to the SMB service
 
 ## 6. Exploit Configuration
 
-![Exploit Options]([msfconsole.png)  
+![Exploit Options]([expolitmsfconsole.png)  
 I configured the exploit by setting the required options, such as the target IP, payload type, and other necessary parameters.
 
 ## 7. Launching the Exploit
 
-![Running Exploit](expolitmsfconsole.png)  
+![Running Exploit](runmsfconsole.png)  
 After setting up the exploit, I executed it using `run` in Metasploit. The image above shows the exploit being launched.
 
 ## 8. Successful System Access
