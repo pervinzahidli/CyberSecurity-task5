@@ -66,10 +66,10 @@ I configured the exploit by setting the required options, such as the target IP,
 
 ## 7. Launching the Exploit
 
-![Running Exploit](run msfconsole.png)  
+![Running Exploit](expolit\msfconsole.png)  
 After setting up the exploit, I executed it using `run` in Metasploit. The image above shows the exploit being launched.
 
 ## 8. Successful System Access
 
-![System Access](sisteme giris.png)  
+![System Access](sisteme\giris.png)  
 This screenshot confirms that I successfully gained access to the target system, verifying that the exploitation was successful.
