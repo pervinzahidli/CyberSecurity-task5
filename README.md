@@ -61,7 +61,7 @@ Using `msfconsole`, I searched for a suitable exploit related to the SMB service
 
 ## 6. Exploit Configuration
 
-![Exploit Options](msfconsole.png)  
+![Exploit Options]([msfconsole.png](https://github.com/pervinzahidli/CyberSecurity-task5/blob/ac12c27adc129c87f76aa9a1b3496d0188286b4b/expolit%20msfconsole.png))  
 I configured the exploit by setting the required options, such as the target IP, payload type, and other necessary parameters.
 
 ## 7. Launching the Exploit
