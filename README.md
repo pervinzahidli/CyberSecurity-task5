@@ -73,4 +73,5 @@ After setting up the exploit, I executed it using `run` in Metasploit. The image
 ## 8. Successful System Access
 
 ![System Access](sistemegiris.png)  
+![System Access](123123.png)  
 This screenshot confirms that I successfully gained access to the target system, verifying that the exploitation was successful.
